@@ -31,11 +31,11 @@ function showData(books = []) {
         if (book.isCompleted == false) {
             let el = `
             <article class="book_item">
-                <h3>${book.title}</h3>
-                <p>Penulis: ${book.author}</p>
+                <h3 style="text-align:justify;">${book.title}</h3>
+                <p style="text-align:justify;">Penulis: ${book.author}</p>
                 <p>Tahun: ${book.year}</p>
 
-                <div class="action">
+                <div class="action" style="margin-top: 30px;">
                     <button class="green" onclick="readedBook('${book.id}')">
                         <img class="agree-icon" style="top:10px;" src="assets/img/agree-icon.png" alt="agree-icon">&nbsp;
                         <span>Selesai dibaca</span>
@@ -52,11 +52,11 @@ function showData(books = []) {
         }else{
             let el = `
             <article class="book_item">
-                <h3>${book.title}</h3>
-                <p>Penulis: ${book.author}</p>
+                <h3 style="text-align:justify;">${book.title}</h3>
+                <p style="text-align:justify;">Penulis: ${book.author}</p>
                 <p>Tahun: ${book.year}</p>
 
-                <div class="action">
+                <div class="action" style="margin-top: 30px;">
                     <button class="green" onclick="unreadedBook('${book.id}')"> 
                         <img class="agree-icon" style="top:10px;" src="assets/img/agree-icon.png" alt="agree-icon">&nbsp;
                         <span>Belum selesai dibaca</span>
