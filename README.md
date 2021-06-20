@@ -19,11 +19,20 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula
 2. Cek Local Storage :
     <ul>
       <li> 
-        Klik kanan pilih pada website -> inspeksi 
+        Klik kanan pada website pilih -> inspeksi 
       </li>
       <li> 
         Cari Application -> Local Storage -> Lalu buat local storage
       </li>
+     
+      a. Key yang perlu anda buat :
+            
+       BOOKS_DATA
+  
+      b. Value yang perlu anda buat :
+            
+       []
+            
       <li> Pastikan seperti gambar berikut :
         <img src = "https://user-images.githubusercontent.com/54527592/122668385-ff89cd80-d1e1-11eb-90c0-02deca5c6d3b.png">
       </li>
