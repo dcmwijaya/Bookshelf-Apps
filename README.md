@@ -30,4 +30,4 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula
     </ul>
     
 3. Done! , selamat menikmati
-      <img src = "https://user-images.githubusercontent.com/54527592/120961228-989efa00-c787-11eb-8e18-171e9c6f668e.JPG">
+      <img src = "https://user-images.githubusercontent.com/54527592/122670967-bab86380-d1ee-11eb-84d4-2006175d6f9f.png">
