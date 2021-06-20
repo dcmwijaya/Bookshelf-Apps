@@ -19,7 +19,7 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula
 2. Cek Local Storage :
     <ul>
       <li> 
-        Klik kanan pada website pilih -> inspeksi 
+        Klik kanan pada area website lalu pilih -> inspeksi 
       </li>
       <li> 
         Cari Application -> Local Storage -> Lalu buat local storage
