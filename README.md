@@ -34,7 +34,7 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula
        []
             
       <li> Pastikan seperti gambar berikut :
-        <img src = "https://user-images.githubusercontent.com/54527592/122668385-ff89cd80-d1e1-11eb-90c0-02deca5c6d3b.png">
+        <img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
       </li>
     </ul>
     
