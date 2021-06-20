@@ -13,5 +13,21 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula
 
 <br>
 
-## Preview
-![Preview](https://user-images.githubusercontent.com/54527592/120961228-989efa00-c787-11eb-8e18-171e9c6f668e.JPG)
+# Cara penggunaan
+1. Download repository ini
+
+2. Cek Local Storage :
+    <ul>
+      <li> 
+        Klik kanan pilih pada website -> inspeksi 
+      </li>
+      <li> 
+        Cari Application -> Local Storage -> Lalu buat local storage
+      </li>
+      <li> Pastikan seperti gambar berikut :
+        <img src = "https://user-images.githubusercontent.com/54527592/122668385-ff89cd80-d1e1-11eb-90c0-02deca5c6d3b.png">
+      </li>
+    </ul>
+    
+3. Done! , selamat menikmati
+      <img src = "https://user-images.githubusercontent.com/54527592/120961228-989efa00-c787-11eb-8e18-171e9c6f668e.JPG">
