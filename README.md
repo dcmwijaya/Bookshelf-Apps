@@ -9,7 +9,7 @@
 <br>
 
 # Bookshelf-Apps
-Dicoding Course Submission - Learn Front End Web Development for Beginners
+Dicoding Assignment Submission - Learn Front End Web Development for Beginners
 
 <br>
 
