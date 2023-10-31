@@ -17,7 +17,7 @@ Penyerahan Tugas Dicoding - Belajar Pengembangan Web Front End untuk Pemula
 | Bagian | Deskripsi |
 | --- | --- |
 | Kode | HTML, CSS, & JS |
-| Peralatan | XAMPP (PHP Versi 5+)  |
+| Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+)  |
 
 <br><br>
 
