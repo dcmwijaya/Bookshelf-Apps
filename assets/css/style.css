@@ -93,7 +93,7 @@ aside {
 	border-right-color: #111111;
 	border-bottom-color: #4ee717;
 	border-left-color: #00c8eb;
-	height: 390px;
+	height: 420px;
 	overflow: auto;
 }
 
@@ -119,7 +119,7 @@ aside {
 	border-right-color: #111111;
 	border-bottom-color: #4ee717;
 	border-left-color: #00c8eb;
-	height: 390px;
+	height: 420px;
 	text-align: justify;
 	overflow: auto;
 	margin: 0px 5px 50px 5px;
@@ -147,7 +147,7 @@ aside {
 }
 
 .input_section > #inputBook {
-  padding: 16px;
+  padding: 10px;
 }
 
 .input_section > form > .input {
