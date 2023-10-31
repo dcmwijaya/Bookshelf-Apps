@@ -17,7 +17,7 @@ Dicoding Assignment Submission - Learn Front End Web Development for Beginners
 | Part | Description |
 | --- | --- |
 | Code | HTML, CSS, & JS |
-| Tools | XAMPP (PHP Version 5+)  |
+| Tools | Visual Studio Code, XAMPP (PHP Version 5+)  |
 
 <br><br>
 
