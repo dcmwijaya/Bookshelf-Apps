@@ -6,8 +6,6 @@
 ![CSS](https://img.shields.io/badge/CSS%20-light.svg?&style=flat&logo=css3&logoColor=%23F7DF1E&color=1E90FF)
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
-<br>
-
 # Bookshelf-Apps
 <strong>Penyerahan Tugas Dicoding</strong><br> 
 Belajar Pengembangan Web Front End untuk Pemula.
@@ -20,20 +18,22 @@ Belajar Pengembangan Web Front End untuk Pemula.
 | Kode | HTML, CSS, & JS |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 5+)  |
 
-<br><br>
+<br>
 
 ## Unduh & Instal
-1. XAMPP dengan PHP versi 7.4 :<br><br>
+1. XAMPP dengan PHP versi 7.4 :<br>
+
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   <br>
-2. Visual Studio Code :<br><br>
+   
+2. Visual Studio Code :<br>
+
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-<br><br>
+<br>
 
 ## Menjalankan
 1. Unduh repositori ini.<br>
@@ -54,7 +54,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
    • Pastikan tampilannya seperti gambar berikut ini:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 7. Selamat menikmati [Selesai].
 
-<br><br>
+<br>
 
 ## Sorotan
 <table>
@@ -66,7 +66,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta (c) 2020 - Devan C. M. Wijaya
