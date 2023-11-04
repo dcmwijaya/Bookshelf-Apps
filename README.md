@@ -35,35 +35,26 @@ Dicoding Assignment Submission - Learn Front End Web Development for Beginners
 <br><br>
 
 ## Running
-1.Download this repository.<br><br>
-2.Extract the downloaded file.<br><br>
-3.Move the "Bookshelf-Apps" directory into the htdocs directory, whose details you can find out as follows:
-```bash
-C:\xampp\htdocs
-```
-4.To access the website, open XAMPP, then start the Apache section.<br><br>
-5.Please open your browser by writing:
-```bash
-localhost/Bookshelf-Apps/
-```
-<br>6. Check the Local Storage section:
-<ul>
-<li>Right-click on the website area and select -> inspection.</li>
-<li>Check: Application -> Local Storage -> Create a Local Storage.</li><br>
-    
-a. The key you need to create:
-    
-    BOOKS_DATA
-    
-b. The value you need to create:
+1. Download this repository.<br>
+2. Extract the downloaded file.<br>
+3. Move the ``` Bookshelf-Apps ``` directory into the htdocs directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
+4. To access the website, open XAMPP, then start the Apache section.<br>
+5. Please open your browser by writing:<br>
 
-    []
-
-<li>Make sure it looks like the following image:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png"></li>
+   ```bash
+   localhost/Bookshelf-Apps/
+   ```
+   
+6. Check the Local Storage section:
+   <br><br>• ``` Right-click ``` on the website area and select -> ``` inspection ```.
+   <br><br>• Check: ``` Application ``` -> ``` Local Storage ``` -> ``` Create a Local Storage ```.
+   <br><br>a. The key you need to create: ``` BOOKS_DATA ```.
+   <br><br>b. The value you need to create: ``` [] ```.
+   <br><br>• Make sure it looks like the following image:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 </ul>
 7. Enjoy [Done].
    
-<br><br><br>
+<br><br>
 
 ## Highlights
 <table>
