@@ -9,7 +9,8 @@
 <br>
 
 # Bookshelf-Apps
-Penyerahan Tugas Dicoding - Belajar Pengembangan Web Front End untuk Pemula
+<strong>Penyerahan Tugas Dicoding</strong><br> 
+Belajar Pengembangan Web Front End untuk Pemula.
 
 <br>
 
@@ -22,47 +23,38 @@ Penyerahan Tugas Dicoding - Belajar Pengembangan Web Front End untuk Pemula
 <br><br>
 
 ## Unduh & Instal
-1.XAMPP dengan PHP versi 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP dengan PHP versi 7.4 :<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+   <br>
+2. Visual Studio Code :<br><br>
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br><br>
-2.Ekstrak file yang diunduh.<br><br>
-3.Pindahkan direktori "Bookshelf-Apps" ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut:
-```bash
-C:\xampp\htdocs
-```
-4.Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br><br>
-5.Silakan buka peramban Anda dengan menuliskan:
-```bash
-localhost/Bookshelf-Apps/
-```
-<br>6. Periksa bagian Penyimpanan Lokal:
-<ul>
-<li>Klik kanan pada area situs web dan pilih -> inspeksi.</li>
-<li>Periksa: Application -> Local Storage -> Buat sebuah Local Storage.</li><br>
-    
-a. Kunci yang perlu Anda buat:
-    
-    BOOKS_DATA
-    
-b. Nilai yang perlu Anda buat:
+1. Unduh repositori ini.<br>
+2. Ekstrak file yang diunduh.<br>
+3. Pindahkan direktori ``` Bookshelf-Apps ``` ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
+4. Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br>
+5. Silakan buka peramban Anda dengan menuliskan:<br>
 
-    []
+   ```bash
+   localhost/Bookshelf-Apps/
+   ```
 
-<li>Pastikan tampilannya seperti gambar berikut ini:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png"></li>
-</ul>
+6. Periksa bagian Penyimpanan Lokal:<br><br>
+   • ``` Klik kanan ``` pada area situs web dan pilih -> ``` inspeksi ```.<br><br>
+   • Periksa: ``` Application ``` -> ``` Local Storage ``` -> ``` Buat sebuah Local Storage ```.<br><br>
+   &emsp;a. Kunci yang perlu Anda buat: ``` BOOKS_DATA ```.<br><br>
+   &emsp;b. Nilai yang perlu Anda buat: ``` [] ```.<br><br>
+   • Pastikan tampilannya seperti gambar berikut ini:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 7. Selamat menikmati [Selesai].
-   
-<br><br><br>
+
+<br><br>
 
 ## Sorotan
 <table>
