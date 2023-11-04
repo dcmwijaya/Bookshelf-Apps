@@ -22,14 +22,15 @@ Dicoding Assignment Submission - Learn Front End Web Development for Beginners
 <br><br>
 
 ## Download & Install
-1.XAMPP with PHP version 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
+1. XAMPP with PHP version 7.4 :<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+   <br>
+2. Visual Studio Code :<br><br>
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
 
 <br><br>
 
