@@ -6,8 +6,6 @@
 ![CSS](https://img.shields.io/badge/CSS%20-light.svg?&style=flat&logo=css3&logoColor=%23F7DF1E&color=1E90FF)
 ![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
 
-<br>
-
 # Bookshelf-Apps
 <strong>Dicoding Assignment Submission</strong><br>
 Learn Front End Web Development for Beginners.
@@ -20,20 +18,22 @@ Learn Front End Web Development for Beginners.
 | Code | HTML, CSS, & JS |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+)  |
 
-<br><br>
+<br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :<br><br>
+1. XAMPP with PHP version 7.4 :
+   
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-   <br>
-2. Visual Studio Code :<br><br>
+   
+2. Visual Studio Code :
+   
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-<br><br>
+<br>
 
 ## Running
 1. Download this repository.<br>
@@ -54,7 +54,7 @@ Learn Front End Web Development for Beginners.
    • Make sure it looks like the following image:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 7. Enjoy [Done].
    
-<br><br>
+<br>
 
 ## Highlights
 <table>
@@ -66,7 +66,7 @@ Learn Front End Web Development for Beginners.
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LICENSE
 MIT License - Copyright (c) 2020 - Devan C. M. Wijaya
