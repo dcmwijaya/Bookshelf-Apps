@@ -38,8 +38,8 @@ Belajar Pengembangan Web Front End untuk Pemula.
 ## Menjalankan
 1. Unduh repositori ini.<br>
 2. Ekstrak file yang diunduh.<br>
-3. Pindahkan direktori ``` Bookshelf-Apps ``` ke dalam direktori htdocs, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
-4. Untuk mengakses situs web, buka XAMPP, lalu mulai bagian Apache.<br>
+3. Pindahkan direktori ``` Bookshelf-Apps ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
+4. Untuk mengakses situs web, buka ``` XAMPP ```, lalu mulai bagian ``` Apache ```.<br>
 5. Silakan buka peramban Anda dengan menuliskan:<br>
 
    ```bash
