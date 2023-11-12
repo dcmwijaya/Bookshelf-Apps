@@ -35,7 +35,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
 
 <br>
 
-## Menjalankan
+## Memulai
 1. Unduh repositori ini.<br>
 2. Ekstrak file yang diunduh.<br>
 3. Pindahkan direktori ``` Bookshelf-Apps ``` ke dalam direktori ``` htdocs ```, yang rinciannya dapat Anda lihat sebagai berikut: ``` C:\xampp\htdocs ```.<br>
