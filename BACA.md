@@ -49,8 +49,8 @@ Belajar Pengembangan Web Front End untuk Pemula.
 6. Periksa bagian Penyimpanan Lokal:<br><br>
    • ``` Klik kanan ``` pada area situs web dan pilih -> ``` inspeksi ```.<br><br>
    • Periksa: ``` Application ``` -> ``` Local Storage ``` -> ``` Buat sebuah Local Storage ```.<br><br>
-   &emsp;a. Kunci yang perlu Anda buat: ``` BOOKS_DATA ```.<br><br>
-   &emsp;b. Nilai yang perlu Anda buat: ``` [] ```.<br><br>
+   &emsp;a. Kunci yang perlu anda buat: ``` BOOKS_DATA ```.<br><br>
+   &emsp;b. Nilai yang perlu anda buat: ``` [] ```.<br><br>
    • Pastikan tampilannya seperti gambar berikut ini:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 7. Selamat menikmati [Selesai].
 
