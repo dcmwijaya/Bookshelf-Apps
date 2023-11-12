@@ -35,7 +35,7 @@ Learn Front End Web Development for Beginners.
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository.<br>
 2. Extract the downloaded file.<br>
 3. Move the ``` Bookshelf-Apps ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
