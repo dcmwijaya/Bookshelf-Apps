@@ -40,7 +40,7 @@ Learn Front End Web Development for Beginners.
 2. Extract the downloaded file.<br>
 3. Move the ``` Bookshelf-Apps ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
 4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
-5. Please open your browser by writing:<br>
+5. Please open your ``` browser ``` by writing:<br>
 
    ```bash
    localhost/Bookshelf-Apps/
