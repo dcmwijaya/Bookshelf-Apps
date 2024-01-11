@@ -12,7 +12,7 @@ Learn Front End Web Development for Beginners.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Code | HTML, CSS, & JS |
