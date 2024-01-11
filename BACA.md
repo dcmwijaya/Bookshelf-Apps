@@ -12,7 +12,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Kode | HTML, CSS, & JS |
