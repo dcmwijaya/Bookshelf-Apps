@@ -69,7 +69,7 @@ Learn Front End Web Development for Beginners.
 <br>
 
 ## LICENSE
-MIT License - Copyright (c) 2020 - Devan C. M. Wijaya
+MIT License - Copyright © 2020 - Devan C. M. Wijaya
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 
