@@ -10,7 +10,7 @@
 <strong>Dicoding Assignment Submission</strong><br>
 Learn Front End Web Development for Beginners.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -18,7 +18,7 @@ Learn Front End Web Development for Beginners.
 | Code | HTML, CSS, & JS |
 | Tools | Visual Studio Code, XAMPP (PHP Version 5+)  |
 
-<br>
+<br><br>
 
 ## Download & Install
 1. XAMPP with PHP version 7.4
@@ -41,32 +41,23 @@ Learn Front End Web Development for Beginners.
 
    </td></tr></table>
 
-<br>
+<br><br>
 
 ## Get Started
-1. Download this repository.<br>
-2. Extract the downloaded file.<br>
-3. Move the ``` Bookshelf-Apps ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br>
-4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
-5. Please open your ``` browser ``` by writing:<br>
-
-   <table><tr><td width="810">
-      
-   ```
-   localhost/Bookshelf-Apps/
-   ```
-
-   </td></tr></table>
-
+1. Download this repository.<br><br>
+2. Extract the downloaded file.<br><br>
+3. Move the ``` Bookshelf-Apps ``` directory into the ``` htdocs ``` directory, whose details you can find out as follows: ``` C:\xampp\htdocs ```.<br><br>
+4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br><br>
+5. Please open your ``` browser ``` by writing: ``` localhost/Bookshelf-Apps/ ```.<br><br>
 6. Check the Local Storage section:<br><br>
    • ``` Right-click ``` on the website area and select -> ``` inspection ```.<br><br>
    • Check: ``` Application ``` -> ``` Local Storage ``` -> ``` Create a Local Storage ```.<br><br>
    &emsp;a. The key you need to create: ``` BOOKS_DATA ```.<br><br>
    &emsp;b. The value you need to create: ``` [] ```.<br><br>
-   • Make sure it looks like the following image:<br><br><img width="810" src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
+   • Make sure it looks like the following image:<br><br><img width="810" src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png"><br><br>
 7. Enjoy [Done].
    
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -78,12 +69,12 @@ Learn Front End Web Development for Beginners.
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Appreciation
 If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2020 - Devan C. M. Wijaya
