@@ -51,7 +51,7 @@ Learn Front End Web Development for Beginners.
    • Check: ``` Application ``` -> ``` Local Storage ``` -> ``` Create a Local Storage ```.<br><br>
    &emsp;a. The key you need to create: ``` BOOKS_DATA ```.<br><br>
    &emsp;b. The value you need to create: ``` [] ```.<br><br>
-   • Make sure it looks like the following image:<br><br><img src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
+   • Make sure it looks like the following image:<br><br><img width="810" src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png">
 7. Enjoy [Done].
    
 <br>
