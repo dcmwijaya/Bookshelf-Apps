@@ -22,16 +22,24 @@ Learn Front End Web Development for Beginners.
 
 ## Download & Install
 1. XAMPP with PHP version 7.4 :
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+
+   </td></tr></table>
    
 2. Visual Studio Code :
+
+   <table><tr><td width="810">
    
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
+
+   </td></tr></table>
 
 <br>
 
@@ -42,9 +50,13 @@ Learn Front End Web Development for Beginners.
 4. To access the website, open ``` XAMPP ```, then start the ``` Apache ``` section.<br>
 5. Please open your ``` browser ``` by writing:<br>
 
-   ```bash
+   <table><tr><td width="810">
+      
+   ```
    localhost/Bookshelf-Apps/
    ```
+
+   </td></tr></table>
 
 6. Check the Local Storage section:<br><br>
    • ``` Right-click ``` on the website area and select -> ``` inspection ```.<br><br>
