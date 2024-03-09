@@ -29,7 +29,7 @@ Learn Front End Web Development for Beginners.
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
 2. Visual Studio Code
 
