@@ -72,7 +72,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
 <br><br>
 
 ## Apresiasi
-Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 
 <br><br>
 
