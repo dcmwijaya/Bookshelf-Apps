@@ -1,10 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-![Dicoding](https://img.shields.io/badge/Dicoding-FrontEnd-blue?logo=github&color=%23F7DF1E)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Bookshelf-Apps/blob/master/LICENSE)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bookshelf-Apps)
-![HTML](https://img.shields.io/badge/HTML%20-light.svg?&style=flat&logo=html5&logoColor=%23F7DF1E&color=FF6347)
-![CSS](https://img.shields.io/badge/CSS%20-light.svg?&style=flat&logo=css3&logoColor=%23F7DF1E&color=1E90FF)
-![JS](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E&color=008080)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Bookshelf-Apps?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Course-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Bookshelf-Apps
 <strong>Penyerahan Tugas Dicoding</strong><br> 
@@ -54,7 +52,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
    • Periksa: ``` Application ``` -> ``` Local Storage ``` -> ``` Buat sebuah Local Storage ```.<br><br>
    &emsp;a. Kunci yang perlu anda buat: ``` BOOKS_DATA ```.<br><br>
    &emsp;b. Nilai yang perlu anda buat: ``` [] ```.<br><br>
-   • Pastikan tampilannya seperti gambar berikut ini:<br><br><img width="810" src = "https://user-images.githubusercontent.com/54527592/122673350-3966ce00-d1fa-11eb-8cdb-aa3acaed9280.png"><br><br>
+   • Pastikan tampilannya seperti gambar berikut ini:<br><br><img width="810" src="assets/documentation/Local Storage.jpg" alt="local-storage"><br><br>
 7. Selamat menikmati [Selesai].
 
 <br><br>
@@ -65,7 +63,7 @@ Belajar Pengembangan Web Front End untuk Pemula.
 <th width="840">Bookshelf-Apps versi Devan</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/122670967-bab86380-d1ee-11eb-84d4-2006175d6f9f.png" alt="image-1"></td>
+<td><img src="assets/documentation/Bookshelf-Apps.jpg" alt="bookshelf-apps"></td>
 </tr>
 </table>
 
